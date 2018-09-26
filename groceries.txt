@@ -2,3 +2,5 @@
 * bread
 * rice crispies
 * cinnamon toast
+* apples
+* bananas
